@@ -1,0 +1,6 @@
+{
+  "name": "Baltic Biofuels",
+  "description": "Lithuanian sustainable biofuel startup transforming local agricultural and forestry residues into second-generation HVO and biomethane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
